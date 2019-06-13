@@ -1,5 +1,4 @@
-[
-    {
+'{
         "id": "1",
         "name": "Mumbai",
         "state": "Maharashtra"
@@ -6103,5 +6102,4 @@
       "id":"1221",
        "name":"Dispur",
        "state":"Assam"
-    }
-]
+    },
